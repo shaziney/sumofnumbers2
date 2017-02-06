@@ -3,7 +3,6 @@
  * http://courses.ics.hawaii.edu/ics314s17/morea/coding-standards/experience-five-problems-1.html
  * Created by shaziney on 2/5/17.
  * Attempt: 2
- * Time: 26:09, DNF
  */
 
 const testNums = [1, 2, 3, 4];
